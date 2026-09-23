@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Rassati/Rassati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Felipe Rassati Stéfano
 
-Here are some ideas to get you started:
+### 💻 Desenvolvedor | Programação & Tecnologia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## 🛠️ Tecnologias e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,angular,nextjs,nodejs,cs,cpp" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,git,github,vscode,vercel,arduino,unity" />
+</p>
+
+<br>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rassati\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rassati\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
