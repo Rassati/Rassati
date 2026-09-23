@@ -1,6 +1,6 @@
 <div align="center">
 
-# Felipe Rassati Stéfano
+# Felipe Rassati Stephano
 
 ### 💻 Desenvolvedor | Programação & Tecnologia
 
@@ -18,8 +18,6 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rassati\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rassati\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 </div>
